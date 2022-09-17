@@ -1,0 +1,17 @@
+C:\Users\cyros\source\repos\ProxyTool\bin\Debug\net6.0-windows\ProxyTool.exe
+C:\Users\cyros\source\repos\ProxyTool\bin\Debug\net6.0-windows\ProxyTool.deps.json
+C:\Users\cyros\source\repos\ProxyTool\bin\Debug\net6.0-windows\ProxyTool.runtimeconfig.json
+C:\Users\cyros\source\repos\ProxyTool\bin\Debug\net6.0-windows\ProxyTool.dll
+C:\Users\cyros\source\repos\ProxyTool\bin\Debug\net6.0-windows\ProxyTool.pdb
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.csproj.AssemblyReference.cache
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.Form1.resources
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.csproj.GenerateResource.cache
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.AssemblyInfoInputs.cache
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.AssemblyInfo.cs
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.csproj.CoreCompileInputs.cache
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.dll
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\refint\ProxyTool.dll
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.pdb
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ProxyTool.genruntimeconfig.cache
+C:\Users\cyros\source\repos\ProxyTool\obj\Debug\net6.0-windows\ref\ProxyTool.dll
